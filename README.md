@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nimeshpareek
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning C and Web development
+- 👋 Hi this is @nimeshpareek here.
+- 🤖I'm computer science student who works in c/c++
+- 🌱 I’m currently learning DSA and Web development.
 - 📫 How to reach me - email me at nimeshpareek25@gmail.com
 
 <!---
