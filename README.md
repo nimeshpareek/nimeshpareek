@@ -1,6 +1,6 @@
 - 👋 Hi this is @nimeshpareek here.
 - 🤖I'm computer science student who works in c/c++
-- 🌱 I’m currently learning DSA and Python Backend.
+- 🌱 I’m currently learning DSA and Backend using Python.
 - 📫 How to reach me - email me at nimeshpareek25@gmail.com
 
 <!---
